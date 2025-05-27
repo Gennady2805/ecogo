@@ -1,62 +1,48 @@
-# ecogo
-EVs built for the gig economy – EcoGo electric vehicle platform for delivery drivers
-p align="center">
-  <img src="https://ecogo.vercel.app/logo.png" alt="EcoGo Logo" width="200"/>
-</p>
-
-<h1 align="center">🚗 EcoGo</h1>
-<h3 align="center">Electric Vehicles for the Gig Economy</h3>
 
 <p align="center">
-  Sustainable • Compact • Designed for Delivery Drivers
+  <img src="https://raw.githubusercontent.com/Gennady2805/ecogo/main/A_3D-rendered_digital_image_features_a_modern_elec.png" alt="EcoGo Logo" width="600"/>
 </p>
 
----
+# 🚗 EcoGo — Electric Vehicles for Gig Delivery
 
-## 🌍 Mission
-
-**EcoGo** aims to transform urban delivery with purpose-built electric vehicles tailored for the needs of gig economy drivers like DoorDash, UberEats, Grubhub, and Instacart.
+EcoGo is a compact electric delivery vehicle platform designed specifically for gig-economy drivers like those working with DoorDash, UberEats, and others. Our mission is to offer a **cost-effective**, **eco-friendly**, and **highly functional** solution that fills the current gap in the light-delivery EV market.
 
 ---
 
-## ⚙️ Key Features
+## 🌍 Why EcoGo?
 
-- 🔋 **Compact EV Design** – Perfect for city deliveries & tight parking
-- 📦 **Optimized Cargo Compartment** – Custom-designed for food delivery bags
-- 💸 **Flexible Leasing Model** – $350/month or split into weekly payments
-- 🛡️ **Low-Cost Commercial Insurance** – Reduces driver premiums
-- 📱 **Smart App Integration** – Real-time sync with delivery platforms (e.g. DoorDash)
-- ♻️ **Zero Emissions** – Built to support sustainable last-mile logistics
-
----
-
-## 📊 Investor Resources
-
-- 📄 [Investor Pitch Deck (PDF)](EcoGo_Investor_Presentation.pdf)
-- 📈 [Production Cost Estimates (Excel)](EcoGo_Production_Cost_Estimates.xlsx)
-- 🚙 [3D Vehicle Design Preview](A_3D-rendered_digital_image_features_a_modern_elec.png)
+- ✅ **Purpose-built design** for small delivery tasks  
+- ⚡ **Electric and sustainable** with low emissions  
+- 📦 **Optimized cargo area** for delivery backpacks (Doordash, UberEats)  
+- 📱 **App integration** with gig platforms  
+- 💸 **Low-cost leasing** with flexible weekly payment options  
+- 🛡️ **Lower insurance rates** than traditional commercial vehicles  
+- 🔧 **Modular build** for easy maintenance and upgrades  
 
 ---
 
-## 🔗 Live Website
+## 📊 Investor Presentation
 
-🌐 [https://ecogo.vercel.app](https://ecogo.vercel.app)
+[📄 View Full Investor Pitch (PDF)](https://github.com/Gennady2805/ecogo/blob/main/EcoGo_Investor_Presentation.pdf)
 
----
-
-## 🤝 Partnership & Contact
-
-📧 Email: [investcomplexxusa@gmail.com](mailto:investcomplexxusa@gmail.com)  
-📞 Phone: +1 (415) 250-3828  
-🏢 Operated by: **Investcomplexx LLC**  
+![Cost Curve](https://raw.githubusercontent.com/Gennady2805/ecogo/main/EcoGo_Unit_Cost_vs_Production_Volume.png)
 
 ---
 
-> ⚠️ **Legal**  
-EcoGo and its brand concept are protected under applicable U.S. trademark and business law. Unauthorized replication or use is prohibited.
+## 🧪 Live Preview
+
+👉 [**View EcoGo Site**](https://ecogo.vercel.app)
 
 ---
 
-<p align="center">
-  🚗 Made for the road. Designed for delivery. Powered by EcoGo.
-</p>
+## 📫 Contact
+
+**Investcomplexx LLC**  
+Founder: Gennady Yeltchev  
+Email: investcomplexxusa@gmail.com  
+Phone: +1 415-250-3828  
+Location: USA
+
+---
+
+© 2025 EcoGo – All Rights Reserved.
